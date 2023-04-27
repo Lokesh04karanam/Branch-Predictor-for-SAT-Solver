@@ -1,7 +1,8 @@
 # Branch-Predictor-for-SAT-Solver
 
 Team VVK
-Team Members:  K.Lokesh           210050081
+Team Members:  
+               K.Lokesh           210050081
                V.Mahanth Naidu    210050161
                V.Raja Gopal       210050160
 
@@ -16,7 +17,7 @@ python3 print_graph.py [TRACE] [N_WARM] [N_SIM]
 
 Results from the traces are found in "graph_results" folder
 
-Traces are found in dpc3_traces folder within ChampSim-master Directory
+Traces are found in dpc3_traces folder within ChampSim-master directory
 
-Files added in Champsim-maste/branch:
-loop_pred.h ltage.bpred tage.bpred tage.h
+Files were added in Champsim-master/branch directory:
+ loop_pred.h ltage.bpred tage.bpred tage.h
